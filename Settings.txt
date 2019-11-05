@@ -1,0 +1,8 @@
+token = "*Input token here*"
+groups = "*Input group/user Id you want to download*"
+albums = "*Input albums Id you want to download*"
+download_folder = "*Input folder where you want to storage you photos*"
+amount = "*Input amount of photos*"
+reverse = "*Input 0 if you want to download old photos first, 1 if not*"
+
+Note: You have to replace text in *Text* and *-sign too. 
